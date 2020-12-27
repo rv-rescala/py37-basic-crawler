@@ -4,3 +4,4 @@ pandas
 xlrd
 lxml
 selenium
+jpsecurities
